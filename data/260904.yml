@@ -7,7 +7,7 @@ about:
   head: a8482a8
   archived: false
   latestVersion: v0.9.0
-  collectedAt: 2026-09-04T20:04:22Z
+  collectedAt: 2026-09-04T20:38:05Z
 timeline:
   created: 2026-03-08
   lastCommit: 2026-08-16
@@ -82,7 +82,7 @@ total:
   commit: 315
 ---
 path: /home/runner/.x-repo/github.com/lazynop/lazyenv
-collectedAt: 2026-09-04T20:04:22Z
+collectedAt: 2026-09-04T20:38:05Z
 loc:
   Go:
     code: 13648
