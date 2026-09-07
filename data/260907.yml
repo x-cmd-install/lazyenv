@@ -5,7 +5,7 @@ about:
   head: a8482a8
   archived: false
   latestVersion: "v0.9.0"
-  collectedAt: 2026-09-07T05:00:25Z
+  collectedAt: 2026-09-07T19:27:47Z
 timeline:
   created: 2026-03-08
   lastCommit: 2026-08-16
@@ -80,7 +80,7 @@ total:
   commit: 315
 ---
 path: /home/runner/.x-repo/github.com/lazynop/lazyenv
-collectedAt: 2026-09-07T05:00:26Z
+collectedAt: 2026-09-07T19:27:48Z
 loc:
   Go:
     code: 13648
@@ -116,7 +116,7 @@ total:
 
 ---
 eget:
-  collectedAt: 2026-09-07T05:00:27+00:00
+  collectedAt: 2026-09-07T19:27:49+00:00
   platform:
     darwin/arm64:
       name:  lazyenv_0.9.0_darwin_arm64.tar.gz
