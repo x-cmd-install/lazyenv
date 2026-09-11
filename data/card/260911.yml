@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.9.0"
   latestRelease: "v0.9.0"
   latestPrerelease: ""
-  collectedAt: 2026-09-11T05:08:40Z
+  collectedAt: 2026-09-11T19:46:17Z
 timeline:
   created: 2026-03-08
   lastCommit: 2026-08-16
@@ -84,7 +84,7 @@ total:
   commit: 315
 ---
 path: /home/runner/.x-repo/github.com/lazynop/lazyenv
-collectedAt: 2026-09-11T05:08:41Z
+collectedAt: 2026-09-11T19:46:18Z
 loc:
   Go:
     code: 13648
