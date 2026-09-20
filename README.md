@@ -4,7 +4,7 @@
 
 TUI for managing .env files
 
-![lazyenv](https://repo.x-cmd.io/lazyenv.svg)
+[![x-cmd/install — lazyenv Code Quality Monitoring Repo Card](https://repo.x-cmd.io/lazyenv.svg)](https://x-cmd.com/install/lazyenv)
 
 ## Install
 
@@ -47,12 +47,12 @@ Total: **13,811** lines of code across **168** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 0 | 3 | 0 | 0 | 0 |
-| last60d | 2026-07-20 | 0 | 1 | 5 | 0 | 0 | 2 |
-| 90d | 2026-06-20 | 0 | 7 | 5 | 0 | 0 | 9 |
-| last180d | 2026-03-22 | 12 | 18 | 5 | 0 | 0 | 153 |
-| 360d | 2025-09-23 | 16 | 28 | 5 | 4 | 0 | 305 |
-| last720d | 2024-09-28 | 16 | 28 | 5 | 4 | 0 | 315 |
+| 30d | 2026-08-21 | 0 | 0 | 3 | 0 | 0 | 0 |
+| last60d | 2026-07-22 | 0 | 1 | 5 | 0 | 0 | 0 |
+| 90d | 2026-06-22 | 0 | 6 | 5 | 0 | 0 | 9 |
+| last180d | 2026-03-24 | 11 | 18 | 5 | 0 | 0 | 149 |
+| 360d | 2025-09-25 | 16 | 28 | 5 | 4 | 0 | 305 |
+| last720d | 2024-09-30 | 16 | 28 | 5 | 4 | 0 | 315 |
 
 ## Release assets
 
@@ -77,4 +77,4 @@ Install metadata for lazyenv lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T05:25:08Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T05:20:04Z._
