@@ -32,7 +32,7 @@ Total: **13,811** lines of code across **168** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.9.0` (2026-06-13)
-- **Last commit**: 2026-09-26
+- **Last commit**: 2026-09-27
 - **Assets in release**: 9
 
 ## Popularity
@@ -41,18 +41,18 @@ Total: **13,811** lines of code across **168** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 16 · **Merged PRs**: 28 · **Open PRs**: 0 · **Closed issues**: 4 · **Open issues**: 0 · **Commits**: 320
+- **Releases**: 16 · **Merged PRs**: 28 · **Open PRs**: 0 · **Closed issues**: 4 · **Open issues**: 0 · **Commits**: 323
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-28 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-29 | 0 | 0 | 0 | 0 | 0 | 5 |
-| 90d | 2026-06-29 | 0 | 6 | 0 | 0 | 0 | 14 |
-| last180d | 2026-03-31 | 11 | 15 | 0 | 0 | 0 | 138 |
-| 360d | 2025-10-02 | 16 | 28 | 0 | 4 | 0 | 310 |
-| last720d | 2024-10-07 | 16 | 28 | 0 | 4 | 0 | 320 |
+| 30d | 2026-08-29 | 0 | 0 | 0 | 0 | 0 | 3 |
+| last60d | 2026-07-30 | 0 | 0 | 0 | 0 | 0 | 8 |
+| 90d | 2026-06-30 | 0 | 6 | 0 | 0 | 0 | 17 |
+| last180d | 2026-04-01 | 11 | 15 | 0 | 0 | 0 | 141 |
+| 360d | 2025-10-03 | 16 | 28 | 0 | 4 | 0 | 313 |
+| last720d | 2024-10-08 | 16 | 28 | 0 | 4 | 0 | 323 |
 
 ## Release assets
 
@@ -77,4 +77,4 @@ Install metadata for lazyenv lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260927.yml` · 2026-09-27T05:41:33Z._
+_Snapshot: `data/card/260928.yml` · 2026-09-28T05:53:42Z._
