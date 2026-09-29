@@ -47,12 +47,12 @@ Total: **13,811** lines of code across **168** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-29 | 0 | 0 | 0 | 0 | 0 | 3 |
-| last60d | 2026-07-30 | 0 | 0 | 0 | 0 | 0 | 8 |
-| 90d | 2026-06-30 | 0 | 6 | 0 | 0 | 0 | 17 |
-| last180d | 2026-04-01 | 11 | 15 | 0 | 0 | 0 | 141 |
-| 360d | 2025-10-03 | 16 | 28 | 0 | 4 | 0 | 313 |
-| last720d | 2024-10-08 | 16 | 28 | 0 | 4 | 0 | 323 |
+| 30d | 2026-08-30 | 0 | 0 | 0 | 0 | 0 | 3 |
+| last60d | 2026-07-31 | 0 | 0 | 0 | 0 | 0 | 8 |
+| 90d | 2026-07-01 | 0 | 6 | 0 | 0 | 0 | 17 |
+| last180d | 2026-04-02 | 11 | 15 | 0 | 0 | 0 | 141 |
+| 360d | 2025-10-04 | 16 | 28 | 0 | 4 | 0 | 313 |
+| last720d | 2024-10-09 | 16 | 28 | 0 | 4 | 0 | 323 |
 
 ## Release assets
 
@@ -77,4 +77,4 @@ Install metadata for lazyenv lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260928.yml` · 2026-09-28T05:53:42Z._
+_Snapshot: `data/card/260929.yml` · 2026-09-29T06:08:01Z._
