@@ -37,7 +37,7 @@ Total: **13,811** lines of code across **168** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 63 · **Forks**: 0 · **Open issues**: 4 · **Contributors**: 1
+- **Stars**: 64 · **Forks**: 0 · **Open issues**: 4 · **Contributors**: 1
 
 ## Totals (cumulative)
 
@@ -47,12 +47,12 @@ Total: **13,811** lines of code across **168** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-02 | 0 | 0 | 0 | 0 | 0 | 3 |
-| last60d | 2026-08-03 | 0 | 0 | 0 | 0 | 0 | 8 |
-| 90d | 2026-07-04 | 0 | 6 | 0 | 0 | 0 | 17 |
-| last180d | 2026-04-05 | 10 | 14 | 0 | 0 | 0 | 141 |
-| 360d | 2025-10-07 | 16 | 28 | 0 | 4 | 0 | 313 |
-| last720d | 2024-10-12 | 16 | 28 | 0 | 4 | 0 | 323 |
+| 30d | 2026-09-03 | 0 | 0 | 0 | 0 | 0 | 3 |
+| last60d | 2026-08-04 | 0 | 0 | 0 | 0 | 0 | 8 |
+| 90d | 2026-07-05 | 0 | 3 | 0 | 0 | 0 | 17 |
+| last180d | 2026-04-06 | 8 | 14 | 0 | 0 | 0 | 141 |
+| 360d | 2025-10-08 | 16 | 28 | 0 | 4 | 0 | 313 |
+| last720d | 2024-10-13 | 16 | 28 | 0 | 4 | 0 | 323 |
 
 ## Release assets
 
@@ -77,4 +77,4 @@ Install metadata for lazyenv lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261002.yml` · 2026-10-02T05:56:11Z._
+_Snapshot: `data/card/261003.yml` · 2026-10-03T05:46:45Z._
