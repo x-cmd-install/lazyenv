@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 2937548,
       "digest": "sha256:2430706364bd052ad0fd4122ef5ed7d868cb607f7292a7925e70ebdebe2e0104",
-      "download_count": 45,
+      "download_count": 47,
       "created_at": "2026-10-11T09:20:29Z",
       "updated_at": "2026-10-11T09:20:29Z",
       "browser_download_url": "https://github.com/lazynop/lazyenv/releases/download/v0.9.1/lazyenv_0.9.1_linux_amd64.tar.gz"
