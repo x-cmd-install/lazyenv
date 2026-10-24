@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 2732207,
       "digest": "sha256:e3e433c1df7a485535ecd5fabec900a1255f166f78db8a5b0a364fb2033b8c50",
-      "download_count": 26,
+      "download_count": 27,
       "created_at": "2026-10-11T09:20:30Z",
       "updated_at": "2026-10-11T09:20:30Z",
       "browser_download_url": "https://github.com/lazynop/lazyenv/releases/download/v0.9.1/lazyenv_0.9.1_darwin_arm64.tar.gz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 2937548,
       "digest": "sha256:2430706364bd052ad0fd4122ef5ed7d868cb607f7292a7925e70ebdebe2e0104",
-      "download_count": 47,
+      "download_count": 54,
       "created_at": "2026-10-11T09:20:29Z",
       "updated_at": "2026-10-11T09:20:29Z",
       "browser_download_url": "https://github.com/lazynop/lazyenv/releases/download/v0.9.1/lazyenv_0.9.1_linux_amd64.tar.gz"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 2651367,
       "digest": "sha256:0bdea1184dfe527e2ae835513679666b87fa5b4289df21265fe2563c3784bb1f",
-      "download_count": 2,
+      "download_count": 3,
       "created_at": "2026-10-11T09:20:29Z",
       "updated_at": "2026-10-11T09:20:29Z",
       "browser_download_url": "https://github.com/lazynop/lazyenv/releases/download/v0.9.1/lazyenv_0.9.1_linux_arm64.tar.gz"
