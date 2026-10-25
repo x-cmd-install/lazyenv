@@ -14,15 +14,15 @@ x install lazyenv
 
 ## Code insight
 
-Total: **18,483** lines of code across **194** files in the top 5 languages.
+Total: **18,761** lines of code across **194** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 18,319 | 2,173 | 3,425 | 171 |
+| Go | 18,597 | 2,296 | 3,457 | 171 |
 | Yaml | 85 | 0 | 10 | 2 |
 | Toml | 47 | 47 | 9 | 8 |
 | Css | 32 | 6 | 9 | 1 |
-| Markdown | 0 | 805 | 321 | 12 |
+| Markdown | 0 | 806 | 321 | 12 |
 
 ## Source
 
@@ -33,27 +33,27 @@ Total: **18,483** lines of code across **194** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.9.1` (2026-10-11)
-- **Last commit**: 2026-10-18
+- **Last commit**: 2026-10-24
 - **Assets in release**: 9
 
 ## Popularity
 
-- **Stars**: 66 · **Forks**: 1 · **Open issues**: 30 · **Contributors**: 1
+- **Stars**: 66 · **Forks**: 1 · **Open issues**: 31 · **Contributors**: 1
 
 ## Totals (cumulative)
 
-- **Releases**: 17 · **Merged PRs**: 30 · **Open PRs**: 0 · **Closed issues**: 22 · **Open issues**: 8 · **Commits**: 561
+- **Releases**: 17 · **Merged PRs**: 31 · **Open PRs**: 0 · **Closed issues**: 27 · **Open issues**: 4 · **Commits**: 589
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-24 | 1 | 2 | 0 | 18 | 8 | 241 |
-| last60d | 2026-08-25 | 1 | 2 | 0 | 18 | 8 | 241 |
-| 90d | 2026-07-26 | 1 | 2 | 0 | 18 | 8 | 246 |
-| last180d | 2026-04-27 | 6 | 12 | 0 | 18 | 8 | 337 |
-| 360d | 2025-10-29 | 17 | 30 | 0 | 22 | 8 | 551 |
-| last720d | 2024-11-03 | 17 | 30 | 0 | 22 | 8 | 561 |
+| 30d | 2026-09-25 | 1 | 3 | 0 | 23 | 4 | 266 |
+| last60d | 2026-08-26 | 1 | 3 | 0 | 23 | 4 | 269 |
+| 90d | 2026-07-27 | 1 | 3 | 0 | 23 | 4 | 274 |
+| last180d | 2026-04-28 | 6 | 13 | 0 | 23 | 4 | 349 |
+| 360d | 2025-10-30 | 17 | 31 | 0 | 27 | 4 | 579 |
+| last720d | 2024-11-04 | 17 | 31 | 0 | 27 | 4 | 589 |
 
 ## Release assets
 
@@ -78,4 +78,4 @@ Install metadata for lazyenv lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261024.yml` · 2026-10-24T04:56:48Z._
+_Snapshot: `data/card/261025.yml` · 2026-10-25T05:00:18Z._
