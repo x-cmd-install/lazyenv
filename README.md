@@ -48,12 +48,12 @@ Total: **19,328** lines of code across **196** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-26 | 1 | 3 | 0 | 27 | 2 | 308 |
-| last60d | 2026-08-27 | 1 | 3 | 0 | 27 | 2 | 311 |
-| 90d | 2026-07-28 | 1 | 3 | 0 | 27 | 2 | 316 |
-| last180d | 2026-04-29 | 6 | 13 | 0 | 27 | 2 | 391 |
-| 360d | 2025-10-31 | 17 | 31 | 0 | 31 | 2 | 621 |
-| last720d | 2024-11-05 | 17 | 31 | 0 | 31 | 2 | 631 |
+| 30d | 2026-09-27 | 1 | 3 | 0 | 27 | 2 | 308 |
+| last60d | 2026-08-28 | 1 | 3 | 0 | 27 | 2 | 311 |
+| 90d | 2026-07-29 | 1 | 3 | 0 | 27 | 2 | 316 |
+| last180d | 2026-04-30 | 6 | 13 | 0 | 27 | 2 | 391 |
+| 360d | 2025-11-01 | 17 | 31 | 0 | 31 | 2 | 621 |
+| last720d | 2024-11-06 | 17 | 31 | 0 | 31 | 2 | 631 |
 
 ## Release assets
 
@@ -78,4 +78,4 @@ Install metadata for lazyenv lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261026.yml` · 2026-10-26T05:07:00Z._
+_Snapshot: `data/card/261027.yml` · 2026-10-27T05:25:46Z._
