@@ -22,7 +22,7 @@ x install lazyenv
 | Yaml | 85 | 0 | 10 | 2 |
 | Toml | 47 | 47 | 9 | 8 |
 | Css | 32 | 6 | 9 | 1 |
-| Markdown | 0 | 892 | 330 | 12 |
+| Markdown | 0 | 928 | 336 | 12 |
 
 ## 源代码
 
@@ -32,42 +32,42 @@ x install lazyenv
 
 ## 发布
 
-- **最新版本**: `v0.9.1` (2026-10-11)
-- **最近提交**: 2026-11-23
+- **最新版本**: `v1.0.0` (2026-11-25)
+- **最近提交**: 2026-11-25
 - **Release 含资产**: 9 个
 
 ## 流行度
 
-- **Star**: 70 · **Fork**: 1 · **开放 issue**: 75 · **贡献者**: 1
+- **Star**: 69 · **Fork**: 1 · **开放 issue**: 77 · **贡献者**: 1
 
 ## 累计统计
 
-- **发布数**: 17 · **已合并 PR**: 31 · **开放 PR**: 3 · **已关闭 issue**: 72 · **开放 issue**: 3 · **提交数**: 786
+- **发布数**: 18 · **已合并 PR**: 31 · **开放 PR**: 0 · **已关闭 issue**: 73 · **开放 issue**: 4 · **提交数**: 789
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-26 | 0 | 0 | 3 | 41 | 1 | 154 |
-| last60d | 2026-09-26 | 1 | 3 | 3 | 68 | 3 | 463 |
-| 90d | 2026-08-27 | 1 | 3 | 3 | 68 | 3 | 466 |
-| last180d | 2026-05-29 | 3 | 13 | 3 | 68 | 3 | 495 |
-| 360d | 2025-11-30 | 17 | 31 | 3 | 72 | 3 | 776 |
-| last720d | 2024-12-05 | 17 | 31 | 3 | 72 | 3 | 786 |
+| 30d | 2026-10-27 | 1 | 0 | 0 | 41 | 3 | 157 |
+| last60d | 2026-09-27 | 2 | 3 | 0 | 69 | 4 | 466 |
+| 90d | 2026-08-28 | 2 | 3 | 0 | 69 | 4 | 469 |
+| last180d | 2026-05-30 | 4 | 13 | 0 | 69 | 4 | 498 |
+| 360d | 2025-12-01 | 18 | 31 | 0 | 73 | 4 | 779 |
+| last720d | 2024-12-06 | 18 | 31 | 0 | 73 | 4 | 789 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [checksums.txt](https://github.com/lazynop/lazyenv/releases/download/v0.9.1/checksums.txt) | 795 B | `other` |
-| [lazyenv_0.9.1_darwin_amd64.tar.gz](https://github.com/lazynop/lazyenv/releases/download/v0.9.1/lazyenv_0.9.1_darwin_amd64.tar.gz) | 2.8 MiB | `native/darwin/x64` |
-| [lazyenv_0.9.1_darwin_arm64.tar.gz](https://github.com/lazynop/lazyenv/releases/download/v0.9.1/lazyenv_0.9.1_darwin_arm64.tar.gz) | 2.6 MiB | `native/darwin/arm64` |
-| [lazyenv_0.9.1_freebsd_amd64.tar.gz](https://github.com/lazynop/lazyenv/releases/download/v0.9.1/lazyenv_0.9.1_freebsd_amd64.tar.gz) | 2.8 MiB | `native/linux/x64` |
-| [lazyenv_0.9.1_freebsd_arm64.tar.gz](https://github.com/lazynop/lazyenv/releases/download/v0.9.1/lazyenv_0.9.1_freebsd_arm64.tar.gz) | 2.5 MiB | `native/linux/arm64` |
-| [lazyenv_0.9.1_linux_amd64.tar.gz](https://github.com/lazynop/lazyenv/releases/download/v0.9.1/lazyenv_0.9.1_linux_amd64.tar.gz) | 2.8 MiB | `native/linux/x64` |
-| [lazyenv_0.9.1_linux_arm.tar.gz](https://github.com/lazynop/lazyenv/releases/download/v0.9.1/lazyenv_0.9.1_linux_arm.tar.gz) | 2.6 MiB | `native/linux/arm` |
-| [lazyenv_0.9.1_linux_arm64.tar.gz](https://github.com/lazynop/lazyenv/releases/download/v0.9.1/lazyenv_0.9.1_linux_arm64.tar.gz) | 2.5 MiB | `native/linux/arm64` |
-| [lazyenv_0.9.1_windows_amd64.zip](https://github.com/lazynop/lazyenv/releases/download/v0.9.1/lazyenv_0.9.1_windows_amd64.zip) | 2.9 MiB | `native/win/x64` |
+| [checksums.txt](https://github.com/lazynop/lazyenv/releases/download/v1.0.0/checksums.txt) | 795 B | `other` |
+| [lazyenv_1.0.0_darwin_amd64.tar.gz](https://github.com/lazynop/lazyenv/releases/download/v1.0.0/lazyenv_1.0.0_darwin_amd64.tar.gz) | 2.9 MiB | `native/darwin/x64` |
+| [lazyenv_1.0.0_darwin_arm64.tar.gz](https://github.com/lazynop/lazyenv/releases/download/v1.0.0/lazyenv_1.0.0_darwin_arm64.tar.gz) | 2.7 MiB | `native/darwin/arm64` |
+| [lazyenv_1.0.0_freebsd_amd64.tar.gz](https://github.com/lazynop/lazyenv/releases/download/v1.0.0/lazyenv_1.0.0_freebsd_amd64.tar.gz) | 2.8 MiB | `native/linux/x64` |
+| [lazyenv_1.0.0_freebsd_arm64.tar.gz](https://github.com/lazynop/lazyenv/releases/download/v1.0.0/lazyenv_1.0.0_freebsd_arm64.tar.gz) | 2.6 MiB | `native/linux/arm64` |
+| [lazyenv_1.0.0_linux_amd64.tar.gz](https://github.com/lazynop/lazyenv/releases/download/v1.0.0/lazyenv_1.0.0_linux_amd64.tar.gz) | 2.9 MiB | `native/linux/x64` |
+| [lazyenv_1.0.0_linux_arm.tar.gz](https://github.com/lazynop/lazyenv/releases/download/v1.0.0/lazyenv_1.0.0_linux_arm.tar.gz) | 2.7 MiB | `native/linux/arm` |
+| [lazyenv_1.0.0_linux_arm64.tar.gz](https://github.com/lazynop/lazyenv/releases/download/v1.0.0/lazyenv_1.0.0_linux_arm64.tar.gz) | 2.6 MiB | `native/linux/arm64` |
+| [lazyenv_1.0.0_windows_amd64.zip](https://github.com/lazynop/lazyenv/releases/download/v1.0.0/lazyenv_1.0.0_windows_amd64.zip) | 3.0 MiB | `native/win/x64` |
 
 ## 改进这些数据
 
@@ -78,4 +78,4 @@ lazyenv 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261125.yml` · 2026-11-25T09:38:39Z._
+_数据快照: `data/card/261126.yml` · 2026-11-26T09:25:15Z._
